@@ -11,7 +11,7 @@ En el mundo IT me interesan varias cosas como:
 Ademas de muchas otras cosas.
 
 ## Habilidades
-- Comandos de linux y windows como:.
+- Comandos de linux y windows.
 - Creacion y gestion de bases de datos.
 - Interconectar redes de ordenadores.
 - Montaje de ordenadores.
@@ -21,7 +21,7 @@ Ademas de muchas otras cosas.
 - Creacion de paginas Webs.
 - Instalación de maquinas virtuales Windows y Linux.
 - Configuración de redes de ordenadores.
-- Creación de estructuras de bases de datos.
+- Creación de estructuras de bases de datos con comandos como: `create table`.
 - Creacion de usuarios y directorios con comandos como:
 
   ```mkdir, net localgroup, net user, cd```
