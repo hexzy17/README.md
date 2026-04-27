@@ -7,6 +7,7 @@ En el mundo IT me interesan varias cosas como:
 - El montaje y configuracion de un PC.
 - La instalación de redes de PC's.
 - La intalación de sistemas operativos.
+
 Ademas de muchas otras cosas.
 
 ## Habilidades
