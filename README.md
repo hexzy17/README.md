@@ -23,8 +23,9 @@ Ademas de muchas otras cosas.
 - Configuración de redes de ordenadores.
 - Creación de estructuras de bases de datos con comandos como: `create table`.
 - Creacion de usuarios y directorios con comandos como:
-
-  ```mkdir, net localgroup, net user, cd```
+  ```
+  mkdir, net localgroup, net user, cd
+  ```
   
 
 ## Objetivo Profesional
