@@ -11,7 +11,7 @@ En el mundo IT me interesan varias cosas como:
 Ademas de muchas otras cosas.
 
 ## Habilidades
-- Sistemas de linux y windows.
+- Comandos de linux y windows como:.
 - Creacion y gestion de bases de datos.
 - Interconectar redes de ordenadores.
 - Montaje de ordenadores.
@@ -22,6 +22,12 @@ Ademas de muchas otras cosas.
 - Instalación de maquinas virtuales Windows y Linux.
 - Configuración de redes de ordenadores.
 - Creación de estructuras de bases de datos.
+- Creacion de usuarios y directorios con comandos como:
+  ```mkdir
+  net localgroup
+  net user
+  cd```
+  
 
 ## Objetivo Profesional
 Mi objetivo profesional es trabajar para una empresa como PcComponentes montando y configurando ordenadores o configurando redes. 
@@ -29,4 +35,4 @@ Mi objetivo profesional es trabajar para una empresa como PcComponentes montando
 ## Contacto
 Correo: Henrysolaku@gmail.com
 
-''' Bloque de comando ''' 
+
