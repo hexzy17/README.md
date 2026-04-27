@@ -12,13 +12,13 @@ Ademas de muchas otras cosas.
 
 ## Habilidades
 - Comandos de linux y windows.
-- Creacion y gestion de bases de datos.
+- Creación y gestion de bases de datos.
 - Interconectar redes de ordenadores.
 - Montaje de ordenadores.
 - Virtualización.
 
 ## Proyectos
-- Creacion de paginas Webs.
+- Creación de páginas Webs.
 - Instalación de maquinas virtuales Windows y Linux.
 - Configuración de redes de ordenadores.
 - Creación de estructuras de bases de datos con comandos como: `create table`.
@@ -29,7 +29,7 @@ Ademas de muchas otras cosas.
   
 
 ## Objetivo Profesional
-Mi objetivo profesional es trabajar para una empresa como PcComponentes montando y configurando ordenadores o configurando redes. 
+Mi __objetivo profesional__ es trabajar para una empresa como PcComponentes montando y configurando ordenadores o configurando redes. 
 
 ## Contacto
 Correo: Henrysolaku@gmail.com
