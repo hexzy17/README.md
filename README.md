@@ -22,3 +22,9 @@ Ademas de muchas otras cosas.
 - Instalación de maquinas virtuales Windows y Linux.
 - Configuración de redes de ordenadores.
 - Creación de estructuras de bases de datos.
+
+## Objetivo Profesional
+Mi objetivo profesional es trabajar para una empresa como PcComponentes montando y configurando ordenadores o configurando redes. 
+
+## Contacto
+Correo: Henrysolaku@gmail.com
