@@ -11,7 +11,6 @@ En el mundo IT me interesan varias cosas como:
 Ademas de muchas otras cosas.
 
 ## Habilidades
-Esto aprendiendo una cuantas habilidades como:
 - Sistemas de linux y windows.
 - Creacion y gestion de bases de datos.
 - Interconectar redes de ordenadores.
