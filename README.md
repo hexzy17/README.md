@@ -26,7 +26,7 @@ Ademas de muchas otras cosas.
   ```mkdir
   net localgroup
   net user
-  cd
+  cd```
   
 
 ## Objetivo Profesional
