@@ -27,8 +27,7 @@ Ademas de muchas otras cosas.
   mkdir, net localgroup, net user, cd
   ```
   
-
-​## Objetivo Profesional
+​## Ojetivo Profesional 
 Mi __objetivo profesional__ es trabajar para una empresa como PcComponentes montando y configurando ordenadores o configurando redes. 
 
 ## Contacto
